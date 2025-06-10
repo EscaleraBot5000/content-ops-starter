@@ -7,7 +7,10 @@ sections:
       text: TecnoFactos Industries
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Bienvenido a Tecno Factos: La Tecnología del Futuro, Hoy En un mundo donde
+      la tecnología avanza a pasos agigantados, en Tecno Factos creemos que la
+      innovación debe estar al alcance de todos.
     text: >+
       Bienvenido a Tecno Factos: La Tecnología del Futuro, Hoy En un mundo donde
       la tecnología avanza a pasos agigantados, en Tecno Factos creemos que la
