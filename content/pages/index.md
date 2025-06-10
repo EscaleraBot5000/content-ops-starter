@@ -12,9 +12,9 @@ sections:
       la tecnología avanza a pasos agigantados, en Tecno Factos creemos que la
       innovación debe estar al alcance de todos.
     text: >+
-      Bienvenido a Tecno Factos: La Tecnología del Futuro, Hoy En un mundo donde
-      la tecnología avanza a pasos agigantados, en Tecno Factos creemos que la
-      innovación debe estar al alcance de todos.
+      Nuestra misión es desarrollar y ofrecer dispositivos y gadgets de última
+      generación que transformen la manera en que vivimos, trabajamos y nos
+      conectamos con el mundo.
 
     actions:
       - label: Get started
