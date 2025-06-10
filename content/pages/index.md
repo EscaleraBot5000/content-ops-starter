@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/WhatsApp Image 2025-03-10 at 12.41.49 PM.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
