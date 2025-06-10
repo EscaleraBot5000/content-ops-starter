@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Bienvenido a Tecno Factos: La Tecnología del Futuro, Hoy En un mundo donde
+      la tecnología avanza a pasos agigantados, en Tecno Factos creemos que la
+      innovación debe estar al alcance de todos.
+
     actions:
       - label: Get started
         altText: ''
